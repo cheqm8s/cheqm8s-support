@@ -73,7 +73,7 @@ Have a question not answered here? We'd love to hear from you!
 
 ## Privacy
 
-Your privacy is important to us. Read our [Privacy Policy](privacy.html) to learn how we handle your data.
+Your privacy is important to us. Read our [Privacy Policy](https://github.com/cheqm8s/cheqm8s-support/blob/main/privacy.md) to learn how we handle your data.
 
 ---
 
