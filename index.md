@@ -50,7 +50,7 @@ You can manually add any missing items or edit existing ones. The scanner is a s
 ### Receipt won't scan properly
 - Ensure good lighting
 - Hold camera steady
-- Make sure entire receipt is in frame
+- Make sure portion with items needed on the reciept is in frame
 - Try flattening crumpled receipts
 - Clean your camera lens
 
@@ -79,4 +79,4 @@ Your privacy is important to us. Read our [Privacy Policy](https://cheqm8s.githu
 
 *CheqM8s - Pick up the check. We'll handle the split.*
 
-Last updated: January 2025
+Last updated: May 2025
