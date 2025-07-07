@@ -38,7 +38,6 @@ When you use CheqM8s, we collect:
 We use Google Analytics for Firebase to collect:
 - App usage statistics (screens viewed, features used)
 - Session duration and frequency
-- General location (city/country level)
 - Device type and operating system
 - Crash reports and performance metrics
 
